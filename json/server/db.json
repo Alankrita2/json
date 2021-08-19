@@ -1,0 +1,10 @@
+{
+    "dept": [
+      {
+        "id": 1,
+        "dname": "Admin",
+        "loc": "Chennai"
+      }
+    ]
+  }
+  
